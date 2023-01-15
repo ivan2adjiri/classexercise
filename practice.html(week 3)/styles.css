@@ -1,0 +1,49 @@
+body{
+	backgrounnd-color: #e3e3e3;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h1{
+	border: 1px;
+	color: whitesmoke;
+	background-color: black;
+
+}
+
+.table{
+	margin: 0;
+	text-align: center;
+
+}
+
+#table{
+	text-align: center;
+}
+
+h4{
+	text-indent:inherit;
+}
+
+table{
+	background-color: floralwhite;
+	margin-left: 650px;
+	margin-bottom: 100px;
+	border-top: 10px;
+	border-right: 10px;
+	border-left: 10px;
+}
+
+labels{
+	font-size: 30px;
+}
+
+.firstname{
+	font-family: sans-serif;
+	background-color: powderblue;
+	border-left: 5px;
+	border-right:5px ;
+	border-top: 5px;
+	border-radius: 1px;
+	border-width: 1px;
+}
